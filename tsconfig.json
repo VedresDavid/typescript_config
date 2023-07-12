@@ -1,0 +1,26 @@
+{
+   "compileOnSave": true,
+   "compilerOptions": {
+       "target": "ES2022",
+
+       "removeComments": true,
+
+       "strict": true,
+       "alwaysStrict": true,
+       "noImplicitAny" : true,
+       "strictNullChecks": true,
+       "noImplicitThis": true,
+       "noUnusedLocals": true,
+       "noImplicitReturns": true,
+       "noFallthroughCasesInSwitch": true,
+       "noUnusedParameters": true,
+       "allowUnreachableCode": false,
+       "allowUnusedLabels": false,
+       "noImplicitOverride": true,
+       "noPropertyAccessFromIndexSignature": true,
+       "strictBindCallApply": true,
+       "strictFunctionTypes": true,
+       "strictPropertyInitialization": true,
+       "forceConsistentCasingInFileNames": true
+   }
+}
