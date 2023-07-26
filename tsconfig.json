@@ -21,6 +21,7 @@
        "strictBindCallApply": true,
        "strictFunctionTypes": true,
        "strictPropertyInitialization": true,
-       "forceConsistentCasingInFileNames": true
+       "forceConsistentCasingInFileNames": true,
+       "preserveConstEnums": false
    }
 }
