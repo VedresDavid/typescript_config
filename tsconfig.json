@@ -2,9 +2,7 @@
    "compileOnSave": true,
    "compilerOptions": {
        "target": "ES2022",
-
        "removeComments": true,
-
        "strict": true,
        "alwaysStrict": true,
        "noImplicitAny" : true,
